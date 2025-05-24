@@ -29,6 +29,10 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Juandhm18/Juandhm18/output/pacman-contribution-graph.svg">
 </picture>
 
+## 🟡 Pacman Contribution Animation
+
+![Pacman Contribution Graph](https://github.com/Juandhm18/Juandhm18/raw/output/dist/pacman-contribution-graph.svg)
+
 ###
 
 <div align="left">

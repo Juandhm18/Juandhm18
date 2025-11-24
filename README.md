@@ -2,10 +2,28 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Juandhm18&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=codeSTACKr&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Juandhm18&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=codeSTACKr&hide_border=false" height="150" alt="languages graph"  />
-</div>
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/juandhm18">
+      <img height="165" alt="Diego GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=juandhm18&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&custom_title=Juan%20Hernandez%20—%20GitHub%20Stats"/>
+      </a>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/juandhm18">
+      <img height="165" alt="Diego Streak" src="https://streak-stats.demolab.com?user=juandhm18&theme=material-palenight&hide_border=true&date_format=j%20M%5B,%20Y%5D"/>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <img height="165" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juandhm18&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+    </td>
+    <td align="center" width="50%">
+      <img height="165" alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=juandhm18&theme=tokyo-night&hide_border=true&custom_title=Activity%20Graph"/>
+    </td>
+  </tr>
+</table>
 
 ###
 
@@ -20,14 +38,6 @@
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
 </div>
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Juandhm18/Juandhm18/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Juandhm18/Juandhm18/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Juandhm18/Juandhm18/output/pacman-contribution-graph.svg">
-</picture>
 
 ###
 
